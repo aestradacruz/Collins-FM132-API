@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FM132API", "FM132API\FM132API.csproj", "{CD8C5B91-E3A8-46CE-803A-12D8EC7C968F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8C5B91-E3A8-46CE-803A-12D8EC7C968F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8C5B91-E3A8-46CE-803A-12D8EC7C968F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8C5B91-E3A8-46CE-803A-12D8EC7C968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8C5B91-E3A8-46CE-803A-12D8EC7C968F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB32F94E-D070-4C0B-8463-FF4B17990D5B}
+	EndGlobalSection
+EndGlobal
